@@ -1,52 +1,60 @@
-📊 Data Analytics Journey 
+📊 Data Analytics Journey
 
-This repository documents my 40-day journey to become job-ready as a Data Analyst.
+This repository documents my 40-day structured journey to become job-ready as a Data Analyst, focusing on practical skills, analytical thinking, and real-world applications.
 
-🔧 Tools & Skills
+🛠️ Tools and Skills
 
-Python (Pandas, NumPy, Matplotlib)
-SQL
-Statistics
-Excel
-Data Cleaning & EDA
-📁 Structure
+🐍 Python (Pandas, NumPy, Matplotlib)
+🗄️ SQL
+📈 Statistics
+📊 Microsoft Excel
+🧹 Data Cleaning and Preprocessing
+🔍 Exploratory Data Analysis (EDA)
 
-01-Python → Core Python practice
-02-Pandas → Data manipulation & analysis
-03-Statistics → Statistical concepts applied in Python
-04-SQL → SQL queries & practice
-05-Excel → Excel analysis & dashboards
-06-Projects → End-to-end data analysis projects
-🎯 Goal Build real-world, portfolio-ready data analysis projects and develop strong analytical thinking.
+📁 Repository Structure
 
-📌 Daily progress is pushed to this repository.
+01-Python
+Core Python practice for Data Analytics
 
-Progress Log
-Day 0 – Setup Completed
-Git installed and verified
-Repository created successfully
-Ready to start Day 1
-Day 1 - Python Basics
-Learned Python basics of Data Analytics
-Practiced and understood Variables, Data Types, Operators, Conditional Statements Logic
-Implemented and worked on small real world problems.
-About
-This repository reflects my data analytics journey from a beginner to a skilled candidate.
+02-Pandas
+Data manipulation and analysis using Pandas
 
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-Jupyter Notebook
-100.0%
+03-Statistics
+Statistical concepts applied using Python
+
+04-SQL
+SQL queries and hands-on practice
+
+05-Excel
+Excel-based data analysis and dashboards
+
+06-Projects
+End-to-end, real-world data analysis projects
+
+🎯 Goal
+
+Build portfolio-ready data analytics projects
+Develop strong analytical and problem-solving skills
+Gain confidence in transforming raw data into actionable insights
+
+📌 Progress Tracking
+
+Daily learning, practice tasks, and improvements are consistently pushed to this repository to ensure steady growth and accountability.
+
+📆 Progress Log
+
+✅ Day 0 – Setup Completed
+• Git installed and verified
+• GitHub repository created successfully
+• Development environment set up
+• Ready to begin Day 1
+
+✅ Day 1 – Python Basics
+• Learned Python fundamentals for Data Analytics
+• Practiced variables, data types, operators, and conditional logic
+• Implemented small real-world problem-solving exercises
+
+ℹ️ About
+
+This repository represents my journey from a beginner level to becoming a skilled, job-ready Data Analyst.
+It serves as both a learning journal and a professional portfolio.
